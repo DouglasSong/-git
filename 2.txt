@@ -1,5 +1,4 @@
 dacscs
-<<<<<<< HEAD
 bug
 怪不得不对
 商城
